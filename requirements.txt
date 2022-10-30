@@ -122,3 +122,4 @@ Werkzeug==2.2.2
 xgboost==1.6.2
 yarg==0.1.9
 zipp==3.9.0
+plotly==5.11.0
