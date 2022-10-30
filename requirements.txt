@@ -5,6 +5,6 @@ matplotlib.pyplot as plt
 plotly.express as px
 numpy as np
 warnings
-streamlit as st
+streamlit 
 imblearn.over_sampling import SMOTE
 imblearn
