@@ -1,4 +1,5 @@
-import timeit
+import streamlit as st
+]mport timeit
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
