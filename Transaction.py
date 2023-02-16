@@ -146,7 +146,7 @@ def compute_performance(model, X_train, y_train,X_test,y_test):
     
 
 #Run different classification models with rectifiers
-if st.sidebar.checkbox('Run a credit card fraud detection model'):
+if st.sidebar.checkbox('Claims fraud detection model'):
     
     alg=['Extra Trees','Random Forest','k Nearest Neighbor','Support Vector Machine','Logistic Regression']
     classifier = st.sidebar.selectbox('Which algorithm?', alg)
