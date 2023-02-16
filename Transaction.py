@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore")
 from imblearn.over_sampling import SMOTE
 
 import streamlit as st
-st.title('Credit Card Fraud Detection!')
+st.title('Insurance Fraud Detection!')
 
 df=st.cache(pd.read_csv)('creditcard.csv')
 
